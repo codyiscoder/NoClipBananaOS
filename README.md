@@ -1,10 +1,10 @@
 # No Clip
 haha noclip
 # How to use
-Y is NoClip
+Press 'y' on your controller to use noclip.
 # Requirments
-Utilla
-
-BananaOS
+- Utilla
+- BananaOS
 # Credits
 Thanks to Veloc1ty for teaching me ho to make this!
+Fixed by Cody :3
